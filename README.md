@@ -1,4 +1,4 @@
-# LearnNLP
+# NLP Exploration
 I'm reviewing NLP for my job hunt.  I'll modify this plan as I go with things I found helpful and useful, and include code and resources under each week.
 
 ## The Plan
